@@ -1,0 +1,120 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {
+    color: #000000;
+    margin-top: 21px;
+    font-size: 11px;
+    font-weight: 700;
+    display: inline-block;
+    text-decoration: none;
+}
+
+#photo1 {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    margin-top: 11px;
+    vertical-align: top;
+    border-radius: 50%;
+}
+
+p{
+    color: #000000;
+    margin-left: 137px;
+    margin-top: 42px;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 27px;
+}
+
+#first {
+    margin-left: 138px;
+    display: inline-block;
+    position: relative;
+}
+
+.dma {
+    position: absolute;
+    top: 5px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    transform: translate(-50%, -50%);
+}
+
+#phototrend1 {
+    width: 362px;
+    height: 186px;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.white{
+    background-color: white;
+    width: 362px;
+    height:171px ;
+    margin-top: -3px;
+    border-radius: 0px 0px 5px 5px;
+}
+
+#hn1 {
+    width:758px ;
+    height:430px ;
+    border-radius:5px ;
+    margin-left: 138px;
+}
+
+#hn2 {
+    width:758px ;
+    height:430px ;
+    border-radius:5px ;
+    margin-left: 138px;
+    margin-top: 42px;
+}
+
+#second {
+    display: inline-block;
+    position: relative;
+}
+
+#meal {
+    position: absolute;
+    top: 172px;
+    left: 387px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    transform: translate(-50%, -50%);
+}
+
+#hn3 {
+    width:362px ;
+    height:212px ;
+    border-radius: 5px;
+}
+
+#footer {
+    background-color: #243043;
+    height: 201px;
+    width: 100%;
+}
+
+center{
+    color: #FFFFFF;
+    padding-top: 59px;
+    font-size:12px ;
+    font-weight:400px ;
+}
+
+#geolab{
+    width: 38px;
+    height: 40px;
+    padding-top:58px ;
+    padding-right:138px ;
+    padding-left:1265px ;
+}
+
+.footer1 {
+    padding-left: ;
+}
